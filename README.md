@@ -1,18 +1,13 @@
 # Genes-asociados-a-la-Obesidad
 Genes asociados a la obesidad, nos centraremos en la obesidad infantil mas específicamente en lo relacionado a esta, la Dislipidemia
 
+###INTRODUCCION
 
-##INTRODUCCION
+##¿QUIENES SOMOS?
 
+##DESARROLLO
 
-###¿Quienes somos? 
-
-
-###DESARROLLO
-
-
-
-###CONCLUSIONES
+##CONCLUSIONES
 
 
 
